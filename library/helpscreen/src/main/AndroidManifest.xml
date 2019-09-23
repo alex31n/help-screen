@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ornach.helpscreen">
+
+    <application>
+        <activity
+            android:name="com.ornach.helpscreen.HelpScreenActivity"
+            android:theme="@style/HelpScreenTheme.Transparent"></activity>
+    </application>
+
+</manifest>
